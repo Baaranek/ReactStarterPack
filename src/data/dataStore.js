@@ -27,11 +27,11 @@ export const listData = {
       cards: [
         {
           key: 0,
-          title: 'This Is Going to Hurt',
+          title: 'Archipelag Gułag',
         },
         {
           key: 1,
-          title: 'Interpreter of Maladies',
+          title: 'Bracia Karamazow',
         },
       ],
     },
@@ -42,11 +42,11 @@ export const listData = {
       cards: [
         {
           key: 0,
-          title: 'Harry Potter',
+          title: 'Lord of the Rings',
         },
         {
           key: 1,
-          title: 'Star Wars',
+          title: 'Hobbit',
         },
       ],
     },
@@ -57,11 +57,11 @@ export const listData = {
       cards: [
         {
           key: 0,
-          title: 'The Witcher',
+          title: 'Hell let Loose',
         },
         {
           key: 1,
-          title: 'Skyrim',
+          title: 'Civilization VI',
         },
       ],
     },
